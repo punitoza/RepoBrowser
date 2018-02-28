@@ -1,0 +1,60 @@
+/*
+ * This is is imported by virtue of "sass.etc" in "app.json".
+ */
+.headerbar {
+    position:fixed;
+    width:100%;
+    z-index:10;
+    border-left-width: 0px !important;
+    border-top-width: 0px !important;
+    border-right-width: 0px !important;
+    border-bottom-width: 5px !important;
+    border-bottom-style: solid !important;
+    border-bottom-color: red !important;
+}
+
+.headerbarBody {
+    background-color: black !important;
+}
+
+.header-label {
+    color: white !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+}
+
+.clsTextFieldInputCls {
+	font-weight: normal !important;
+}
+
+.clsOrgDetails {
+	font-size: 12px !important;
+	font-weight: 600 !important; 
+}
+
+.clsOrgName {
+	font-size: 24px !important;
+	font-weight: 600 !important; 
+}
+
+.clsOrgDesc {
+	font-size: 14px !important;
+	font-weight: 600 !important; 
+}
+
+.clsErrorText {
+	color: red !important;
+}
+
+.clsGridCell {
+	font-weight: normal !important;
+}
+
+.clsGridHeader {
+	font-weight: 600 !important;
+}
+
+.clsGridTitle {
+	font-weight: 600 !important;
+	font-size: 20px !important;
+}

@@ -7,7 +7,7 @@ The RepoBrowser is a utility to browser an organization's repositories and to vi
 
 # Steps to Run the Application:
 
-1. Deploy the file RepoBrowser.war inside any web server.
+1. Deploy the file RepoBrowser.war lying under RepoBrowser/export directory inside a web server.
 2. Hit the URL - http://<server-name>:<port>/RepoBrowser/ExtRepoApp/index.html
 3. A page showing Netflix' public repositories will appear.
 4. The top header bar allows to change the organization and view the repositories of a different organization. Enter the    organization's "github login id" to search it. For example - for GitHub it is just "github". Press Enter Key and it should reload the repositories grid with those that belong to the organization requested.
